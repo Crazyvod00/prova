@@ -8,9 +8,9 @@
       	"year": 2010,
     	"duration": 6120,
 	"genre": [
-		"commedia"
-	 ]
-    },
+	"commedia"
+	]
+    }
   },
   {
     "name": "Benvenuti al Nord",
@@ -20,9 +20,9 @@
 	"plot": "Tornato a Milano, Alberto ha accettato di gestire un programma di miglioramento dell'efficienza delle Poste Italiane. Dedica tutto il suo tempo e le sue energie a questo nobile compito e trascura sua moglie."
       	"year": 2012,
 	"duration": 6600,
-	"genre": [ 
-        	"commedia"
-      ]
-    },
+	"genre": [
+	"commedia"
+	]
+    }
   },
 ]
