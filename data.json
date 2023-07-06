@@ -1,28 +1,28 @@
 [
-  {
-    "name": "Benvenuti al Sud",
-    "category": "Commedia",
-    "info": {
-      "poster": "http://tiny.cc/p9p8vz",
-      "year": 2010,
-      "plot": "Alberto Colombo è un impiegato delle Poste che invece del trasferimento a Milano viene spedito nel Cilento. A Castellabate, Alberto scopre una vita migliore, ma gli resta il problema di comunicare alla moglie la buona notizia.",
-      "genre": [
-        "commedia"
-      ],
-      "duration": 6120
+    {
+        "name":"Benvenuti al Sud",
+        "category":"Commedia",
+        "info":{
+            "poster":"http://tiny.cc/p9p8vz",
+            "year":2010,
+            "plot":"Alberto Colombo è un impiegato delle Poste che invece del trasferimento a Milano viene spedito nel Cilento. A Castellabate, Alberto scopre una vita migliore, ma gli resta il problema di comunicare alla moglie la buona notizia.",
+            "genre":[
+                "commedia"
+            ],
+            "duration":6120
+        }
+    },
+    {
+        "name":"Benvenuti al Nord",
+        "category":"Commedia",
+        "info":{
+            "poster":"http://tiny.cc/map8vz",
+            "year":2012,
+            "plot":"Tornato a Milano, Alberto ha accettato di gestire un programma di miglioramento dell'efficienza delle Poste Italiane. Dedica tutto il suo tempo e le sue energie a questo nobile compito e trascura sua moglie.",
+            "genre":[
+                "commedia"
+            ],
+            "duration":6600
+        }
     }
-  },
-  {
-    "name": "Benvenuti al Nord",
-    "category": "Commedia",
-    "info": {
-      "poster": "http://tiny.cc/map8vz",
-      "year": 2012,
-      "plot": "Tornato a Milano, Alberto ha accettato di gestire un programma di miglioramento dell'efficienza delle Poste Italiane. Dedica tutto il suo tempo e le sue energie a questo nobile compito e trascura sua moglie.",
-      "genre": [
-        "commedia"
-      ],
-      "duration": 6600
-    }
-  }
 ]
