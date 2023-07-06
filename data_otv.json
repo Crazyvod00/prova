@@ -1,5 +1,4 @@
-[
-  {
+{
     "name": "Benvenuti al Sud",
     "category": "Commedia",
     "info": {
@@ -11,8 +10,8 @@
 	"commedia"
 	]
     }
-  },
-  {
+},
+{
     "name": "Benvenuti al Nord",
     "category": "Commedia",
     "info": {
@@ -24,5 +23,4 @@
 	"commedia"
 	]
     }
-  },
-]
+}
