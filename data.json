@@ -1,16 +1,4 @@
 {
-    "info": {
-	"name": "Benvenuti al Sud",
-    	"category": "Commedia",
-      	"poster": "http://tiny.cc/p9p8vz",
-      	"plot": "Alberto Colombo è un impiegato delle Poste che invece del trasferimento a Milano viene spedito nel Cilento. A Castellabate, Alberto scopre una vita migliore, ma gli resta il problema di comunicare alla moglie la buona notizia."
-      	"year": 2010,
-    	"duration": 6120,
-	"genre": [ "commedia"
-	]
-    }
-}	
-{
     "name": "Benvenuti al Nord",
     "category": "Commedia",
     "info": {
@@ -20,4 +8,3 @@
 	"genre": [ "commedia" ]
 	"duration": 6600,
     }
-}
