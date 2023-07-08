@@ -1,14 +1,18 @@
 [
 {
-	"name": "Benvenuti al Sud",
-    "category": "VOD",
+    "name": "Benvenuti al Sud",
+    "type": "video",
+    "drm": "clearkey",
+    "drmkey": "7749aa08e912e12e8947384416be19e5:957053012e0d8b342fc6ce1f4874141f",
+        "video": "https://vod06.msf.cdn.mediaset.net/farmunica/2018/10/269719_16678d1aa587d2/dashrcenc/hd_wv_mpl.mpd",
+    "category": "Commedia",
     "info": {
-		"poster": "http://tiny.cc/p9p8vz",
-		"year": 2010,
-		"plot": "Alberto Colombo è un impiegato delle Poste che invece del trasferimento a Milano viene spedito nel Cilento. A Castellabate, Alberto scopre una vita migliore, ma gli resta il problema di comunicare alla moglie la buona notizia.",
-		"genre": [ "commedia" ],
-		"duration": 6120
-	}
+      "poster": "http://tiny.cc/p9p8vz",
+	  "year": 2010,
+	  "plot": "Alberto Colombo è un impiegato delle Poste che invece del trasferimento a Milano viene spedito nel Cilento. A Castellabate, Alberto scopre una vita migliore, ma gli resta il problema di comunicare alla moglie la buona notizia.",
+    "genre": [ "commedia" ]
+    }
+
 },
 {
     "name": "Benvenuti al Nord",
